@@ -105,7 +105,7 @@ setup(
         'jedi==0.17.2',  # The last version for Python 2 and 3.5
         'idna==2.10',  # Must stay in sync with "requests"
         'chardet==3.0.4',  # Must stay in sync with "requests"
-        'urllib3==1.25.10',  # Must stay in sync with "requests"
+        'urllib3==1.26.5',  # Must stay in sync with "requests"
         'requests==2.24.0',
         'selenium==3.141.0',
         'msedge-selenium-tools==3.141.2',
