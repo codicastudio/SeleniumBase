@@ -145,7 +145,7 @@ setup(
         'prompt-toolkit==3.0.7;python_version>="3.6"',
         'ipython==6.5.0;python_version>="3.5" and python_version<"3.6"',
         'ipython==7.16.1;python_version>="3.6" and python_version<"3.7"',
-        'ipython==7.18.1;python_version>="3.7"',
+        'ipython==7.31.1;python_version>="3.7"',
         'colorama==0.4.3',
         'pymysql==0.10.1',
         'coverage==5.3',
